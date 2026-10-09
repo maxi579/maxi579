@@ -1,6 +1,6 @@
 ### Hi, I'm Máximo 👋
 
-Full-stack developer from Argentina 🇦🇷 — I build web and mobile products with **React, React Native, TypeScript and Node.js**, and I like putting AI to work inside real products.
+Systems Engineering student at Universidad CAECE and full-stack developer from Mar del Plata, Argentina 🇦🇷 — I build web and mobile products with **React, React Native, TypeScript and Node.js**, and I like putting AI to work inside real products.
 
 🚀 Joining **[Doppler](https://www.fromdoppler.com/)** (email marketing platform) as an IT intern in October 2026.
 
